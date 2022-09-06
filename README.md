@@ -51,3 +51,6 @@ Default value of `LOG_PATH` is `/var/log/auth.log`
 
 
 ## Try
+
+![example](https://user-images.githubusercontent.com/47979730/188625537-23160aa8-5978-4b6b-9394-26e1810b2433.png)
+
